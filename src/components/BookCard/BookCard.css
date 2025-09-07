@@ -1,0 +1,15 @@
+.book-card {
+  border: 1px solid #ddd;
+  padding: 12px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+
+.book-card a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.book-card a:hover {
+  text-decoration: underline;
+}
